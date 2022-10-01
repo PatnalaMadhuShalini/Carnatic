@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        /* Styling the body element
+        like body color and margin */
+
+        body {
+            background-color: #669933;
+            margin: 20%;
+        }
+
+        /* Styling the Title and giving
+        shadow to the title */
+
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px yellow;
+            font-size: 9vh;
+        }
+
+        /* Setting width and display
+        type of image */
+
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+
+        /* Setting font color and font
+        size of the image-caption */
+
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+
+        div#tribute-data {
+            background-color: rgb(46, 139, 86, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+
+        /* Styling the title of the content */
+
+        h1.title-Tallapaka {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+
+        /* Styling the link provided at the end */
+
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+    <main id="main">
+
+        <!-- Title of the page -->
+        <h1 id="title">
+            Tallapaka Annamacharya
+        </h1>
+        </header>
+        <p class="subtitle">Pada kavitha pitamaha</p>
+        <figure id="img-div">
+            <a href="https://commons.wikimedia.org/wiki/File:Tallapaka_Annamacharya_Anakapalle.jpg" target="_blank">
+<img class="lift-animation" id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tallapaka_Annamacharya_Anakapalle.jpg/512px-Tallapaka_Annamacharya_Anakapalle.jpg"
+alt="A Statue with gold colour."/></a>
+            <figcaption id="img-caption">A statue of Tallapaka Annamacharya situated at the Sarada River Park in Anakapalle, Andhra Pradesh.</figcaption>
+        </figure>
+        <section id="tribute-info">
+            <h2>A brief summary of Annamacharya</h2>
+            <h3>Personal life</h3>
+            <p>
+                ☛ Tallapaka Annamacharya was born on Vaishakha Shuddha Pournami in the year Sarwadhari (22 May 1408) in Tallapaka, Near Rajampet Mandal, a village in present-day Kadapa district of Andhra Pradesh, India.<br><br> ☛ Even though his parents belonged to the Nandavarika Brahmin community of Smarta tradition, he took initiation into Vaishnavism and became a Vaishnava in the Ramanujacharya Sampradaya.<br><br> ☛ His wife, Timmakka,had written Subhadra Kalyanam, and is considered the first female poet in Telugu literature. Their son, Pedda Tirumalacharya, and grandson, Tallapaka Chinnayya, were also composers and poets.<br><br> ☛ The Tallapaka compositions are considered to have dominated and influenced the structure of Carnatic music compositions.Annamacharya lived for 95 years until Phalguna Bahula (Krishna) Dvadasi (12th day after full moon) in the year Dhundhubhi (4 April 1503).
+            </p>
+            <figure id="img-div">
+                <a href="http://www.sapna25.com/yahoo_site_admin/assets/images/annamacharya_1.73124417_std.jpg" target="_blank">
+<img class="lift-animation" id="image" src="https://thedanceindia.com/wp-content/uploads/2020/11/annamacharya.png"
+alt=""/></a>
+
+                <h3>Literary career</h3>
+                <p>
+                    ☛ Annamayya is said to have composed as many as 32,000 sankeertanas (songs) on the praise of lord Venkateswara of which only about 12,000 are available today. He is also the author of musical treatise called "Sankirthana lakshanamu".<br><br> ☛ Annamayya considered his compositions as floral offerings to Venkateswara. In the poems, he praises the deity, describes his love for him, argues and quarrels with the Lord, confesses the devotee's failures and apprehensions, and surrenders himself to Venkateshwara. ☛ His songs are classified into the Adhyaatma (spiritual) and Sringaara (romantic) sankeertanas genres. His songs in the "Sringaara" genre worship Venkateswara by describing the romantic adventures of Venkateshwara and his consort Alamelu, while others describe the Bhakti of his devotees.<br><br> ☛ In his later keertanas, he espouses subjects such as morality, dharma and righteousness. He was one of the first few who opposed the social stigma towards the untouchable castes in his era, with his sankeertanas explaining that the relationship between God and human is the same irrespective of the latter's color, caste and financial status, in his songs "Brahmaṃ Okkatē Paraḥbrahmamokkatē" and "ē kulajuḍainanēmi evvaḍainanēmi". His prodigious literary career earned him a place among the all-time greats of Telugu literature.
+                </p>
+                <figure id="img-div">
+                    <a href="https://thedanceindia.com/annamayyas-life-and-lyrical-saga/" target="_blank">
+<img class="lift-animation" id="image" src="https://thedanceindia.com/wp-content/uploads/2020/11/annamayya-copper-plates-5-768x510.jpg"
+alt=""/></a>
+
+                    <h3>Rediscovery of composition</h3>
+                    <p>
+                        The compositions of Annamacharya were lost and forgotten for over three centuries. Centuries after his lifetime, twenty-five hundred copper plates containing his songs were found in 1922. They were found inside the Sri Venkateswara temple at Tirumala, just opposite the ‘hundi’ (cash collection box), concealed in a small room. In 1949, Tirumala Tirupati Devasthanams (TTD) finally took possession of all the available copper plates. In 2005, an English translation of 150 of these verses was published.
+
+
+                    </p>
+
+
+                    </p>
+                    <h3>Legacy</h3>
+                    <p>
+                        Since the discovery of Annamacharya’s compositions, Tirumala Tirupati Devasthanams has been making every effort to promote and preserve the works of this legendary composer. In 1950, the Government of Andhra Pradesh created a committee and appointed the late musician Dr M. Balamuralikrishna as its head. In 1979, an album named Balaji Pancharatnamala was sung by singer M. S. Subbulakshmi. The album contained the compositions of Annamacharya like Vande Vasudevam, Bhavamulona, Sriman Narayana and many more. A statue of Annamacharya is situated at the Sarada River Park in Anakapalle, Andhra Pradesh. Another 10-story tall statue is located at the entrance of Tallapaka.
+                        <br><br><br>
+                    </p>
+
+
+                    </div>
+                    <br> For more information, check out
+                    <a id="tribute-link" href="#">
+            <b>Annamacharya</b> on Wikipedia. [
+            <small>Developed by @<a href="#">
+                    PatnalaMadhuShalini.</a></a>
+                    </small>]
+    </main>
+</body>
+
+</html>
